@@ -1,3 +1,11 @@
 A seguinte atividade terá os seguintes objetivos:
 - Desenvolvimento de uma classe e será testada usando os conhecimentos de Testes Unitários;
 - Controle de versão de sistemas com testes unitários.
+
+Proposta 1: Classe Triangulo
+A classe deverá receber três valores de lados para um triângulo e informar se os lados formam um triângulo, se o mesmo é: equilátero, isósceles, escaleno ou se não formam um triângulo. Dicas:
+
+- Três lados formam um triangulo quando a soma de quaisquer dos dois lados é maior que o terceiro.
+- Triângulo Equilátero: três lados iguais;
+- Triângulo Isósceles: quaisquer dois lados iguais;
+- Triângulo Escaleno: três lados diferentes;
