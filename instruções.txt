@@ -1,0 +1,3 @@
+A seguinte atividade terá os seguintes objetivos:
+- Desenvolvimento de uma classe e será testada usando os conhecimentos de Testes Unitários;
+- Controle de versão de sistemas com testes unitários.
