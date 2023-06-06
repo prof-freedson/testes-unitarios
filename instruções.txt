@@ -9,3 +9,11 @@ A classe deverá receber três valores de lados para um triângulo e informar se
 - Triângulo Equilátero: três lados iguais;
 - Triângulo Isósceles: quaisquer dois lados iguais;
 - Triângulo Escaleno: três lados diferentes;
+
+Proposta 2: Classe Imposto
+A classe irá realizar o cálculo de uma folha de pagamento, sabendo que os descontos são do imposto de Renda, correspondente a 11% do salário bruto e o salário líquido corresponde ao salário bruto menos os descontos que deverá seguir os seguintes critérios
+
+Salário Bruto ate R$900,00 – isento;
+Salário Bruto de R$ 1500, 00 – desconto de 5%;
+Salario bruto até R$ 2500,00 – desconto de 10%;
+Salário bruto acima de 2500 – desconto de 20%.
